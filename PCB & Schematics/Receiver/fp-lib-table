@@ -1,0 +1,5 @@
+(fp_lib_table
+	(version 7)
+	(lib (name "esp32_devkit(cstm)") (type "KiCad") (uri "C:/Users/divya/Downloads/DEVKIT_V1_ESP32-WROOM-32") (options "") (descr ""))
+	(lib (name "AMS1117-3.3") (type "KiCad") (uri "M:/D-V/Project/RCPNE/Kicad/Asset(Symbol&Footprint)/AMS1117-3.3") (options "") (descr ""))
+)
