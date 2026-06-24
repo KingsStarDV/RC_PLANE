@@ -1,0 +1,5 @@
+(fp_lib_table
+	(version 7)
+	(lib (name "ESP_DevKITv1") (type "KiCad") (uri "C:/Users/divya/Downloads/DEVKIT_V1_ESP32-WROOM-32") (options "") (descr ""))
+	(lib (name "NRF24L01+PA+LNA") (type "KiCad") (uri "M:/D-V/PJTS/RCPNE/Kicad/Asset(Symbol&Footprint)/NRF24L01_") (options "") (descr ""))
+)
