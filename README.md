@@ -99,3 +99,19 @@ Both the transmitter and receiver by default code are set to maximum power deliv
 <img width="356" height="314" alt="Screenshot 2026-06-24 151250" src="https://github.com/user-attachments/assets/1361f154-4149-4253-9cf8-1c8051210ee5" />
 <img width="476" height="416" alt="Screenshot 2026-06-24 112642" src="https://github.com/user-attachments/assets/a95c0567-c217-49e8-b1eb-5796c30a74f4" />
 
+
+
+## How to Upload the Code
+
+**Requirements:**
+- Arduino IDE installed
+- ESP32 board package installed
+- RF24 library installed
+
+**Steps:**
+1. Open Arduino IDE
+2. Go to File → Open → select `transmitter.ino` (or `receiver.ino`)
+3. Go to Tools → Board → select `ESP32 Dev Module`
+4. Go to Tools → Port → select your COM port
+5. Click the Upload button (→)
+6. Repeat for the second ESP32 with the receiver code
